@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MikeyTraya
+- 👀 I’m interested in Game Development and Automation Testing
+- 🌱 I’m currently learning Unity 3D C#, Selenium, Appium, Winium and TOSCA
+- 💞️ I’m looking to collaborate on Game Development projects
+- 📫 How to reach me via michaeltraya2@gmail.com or traya.michaelevan@gmail.com
